@@ -1,5 +1,7 @@
-# 各仓库README图床
+# 图床
 
 配合优秀的图床工具食用：https://picx.xpoet.cn/
 
-感谢GitHub，感谢微软
+并且转换为加速cdn链接，加速国内访问
+
+感谢GitHub，感谢微软！
